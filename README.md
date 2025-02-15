@@ -123,6 +123,6 @@ Maximum Value of Objective Function: 10.5
 
 ---
 
-- The full implementation is available in `final.cpp`.
+- The full implementation is available in `simplex algorithm.cpp`.
 
 ---
